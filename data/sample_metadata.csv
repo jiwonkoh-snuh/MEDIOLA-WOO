@@ -1,0 +1,163 @@
+ID,timepoint,pCR,TLS,PET2wk,PET4wk,CT4wk,RAD51,HRRmt,gBRCA,Recur,TP53,gBRCA1,sBRCA1,gBRCA2,gPALB2,PIK3CA,PTEN,PIK3R1,NF1,RB1,ARID1A,KMT2C,SPEN,CTCF,Age,MSI,Stage,Histologic_Type,ER,HER2,Ki-67,PAM50,TNBC,PDL1,PET2wk_SUV,PET4wk_SUV
+S01,B,PCR,N,Y,Y,Y,Y,N,N,N,stopgain,,stopgain,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.7,Basal,BLIA,P,-87.83068783,-94.70899471
+S02,B,PCR,N,Y,Y,N,Y,Y,Y,N,stopgain,exondel,,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.7,Basal,BLIA,N,-47.05882353,-70.58823529
+S03,B,nonPCR,N,N,N,N,N,N,N,Y,stopgain,,,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.1,Basal,BLIA,N,95.23809524,82.53968254
+S04,B,nonPCR,N,N,N,N,Y,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.15,Basal,BLIA,P,23.52941176,-29.41176471
+S05,B,PCR,N,N,Y,N,N,Y,Y,Y,stopgain,,,frameshift,,,,frameshift,frameshift,,,,,,40-49,Low,II,IDC ,Low,N,0.07,Basal,BLIS,N,-5.970149254,-46.26865672
+S06,B,PCR,N,Y,Y,Y,Y,N,N,N,missense,,,,,,stopgain,,,,,,,,40-49,Low,III,IDC ,Low,N,0.3,Basal,BLIA,N,-44.18604651,-62.79069767
+S07,B,nonPCR,N,Y,N,N,N,Y,N,N,missense,,,,stopgain,,,,,,,,,,40-49,Low,III,IDC ,N,N,0.1,Basal,BLIS,N,-53.79310345,-28.96551724
+S08,B,PCR,N,N,N,Y,N,Y,Y,N,stopgain,splice,,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.3,Basal,BLIA,N,15.07936508,-18.25396825
+S09,B,PCR,Y,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,50-59,Low,III,IDC ,N,N,0.3,Basal,BLIA,N,-74.07407407,-70.37037037
+S10,B,PCR,N,Y,Y,Y,Y,N,N,N,missense,,,,,,,,,,,,,,60-69,Low,III,IDC ,N,N,0.7,Basal,BLIA,P,-76.22377622,-90.20979021
+S11,B,PCR,N,N,Y,Y,N,N,N,N,stopgain,,,,,,,,,,,,,,40-49,Low,III,IDC ,Low,Low,0.15,Basal,BLIA,P,-19.07894737,-35.52631579
+S12,B,PCR,N,N,Y,N,N,N,N,N,missense,,,,,,stopgain,,,frameshift,,,,,30-39,Low,II,IDC ,N,N,0.7,Basal,BLIA,P,15,-43.33333333
+S13,B,nonPCR,N,Y,Y,N,N,Y,Y,N,missense,exondel,,,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.5,Basal,BLIS,N,-48.54368932,-67.96116505
+S14,B,PCR,N,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.2,Basal,BLIS,N,-57.6,-78.4
+S15,B,PCR,N,N,N,N,N,N,N,N,missense,,,,,,,,,,,,,,30-39,Low,II,IDC ,N,Low,0.2,Her2,BLIA,P,-4.761904762,13.69047619
+S16,B,PCR,N,Y,Y,Y,Y,Y,Y,N,frameshift,stopgain,,,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.7,Basal,BLIA,N,-48.27586207,-80
+S17,B,PCR,N,Y,Y,Y,N,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.5,Basal,BLIA,P,-44.60431655,-44.60431655
+S18,B,PCR,N,Y,Y,Y,Y,N,N,N,missense,,,,,,,,,,,,,,50-59,Low,II,IDC ,N,N,0.7,Basal,BLIA,P,-40.84507042,-80.28169014
+S19,B,PCR,N,N,Y,N,N,Y,Y,N,frameshift,exondel,,,,,,,,,,,,,30-39,Low,III,metaplastic,N,N,0.3,Basal,BLIA,N,5,-77.22222222
+S20,B,PCR,N,N,Y,N,N,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.6,Basal,BLIS,N,1.162790698,-33.72093023
+S21,B,nonPCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.3,Basal,BLIA,N,-52.81385281,-86.14718615
+S22,B,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.15,Basal,BLIA,P,-57.95454545,-70.45454545
+S23,B,nonPCR,N,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.7,Basal,BLIA,N,-12.32227488,-37.91469194
+S24,B,PCR,N,Y,Y,Y,N,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,III,IDC ,N,N,0.2,Basal,BLIA,N,-63.10679612,-74.75728155
+S25,B,PCR,N,N,Y,Y,Y,Y,Y,N,,,,stopgain,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.3,,,N,-9.6,-56.8
+S26,B,PCR,N,Y,Y,Y,Y,N,N,N,frameshift,,,,,,,,,,,,,,50-59,Low,III,IDC ,Low,N,0.15,Basal,BLIA,P,-79.73273942,-85.5233853
+S27,B,PCR,N,N,Y,Y,Y,Y,Y,Y,missense,missense,,,,,,,,,,,,,40-49,Low,III,IDC ,N,N,0.7,Basal,BLIA,N,-23.33333333,-66.66666667
+S28,B,PCR,N,N,Y,N,Y,Y,Y,N,frameshift,,,stopgain,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.03,Basal,BLIA,N,-7.100591716,-34.31952663
+S30,B,nonPCR,N,Y,Y,Y,Y,N,N,Y,splice,,,,,,,,,,,,,,30-39,Low,III,IDC ,Low,N,0.6,Basal,BLIA,N,-46.77871148,-67.78711485
+S31,B,nonPCR,N,N,N,N,N,N,N,N,splice,,,,,missense,,,,,,,,splice,60-69,Low,III,IDC ,Low,Low,0.01,Her2,LAR,N,4,-5.333333333
+S32,B,PCR,N,N,Y,Y,N,N,N,N,frameshift,,,,,,,,,,,,,,60-69,Low,III,IDC ,N,N,0.25,Basal,BLIS,N,-25.58139535,-62.01550388
+S33,B,PCR,N,N,Y,N,N,Y,Y,N,,,,stopgain,,,,,,frameshift,,,,,50-59,Low,II,IDC ,N,Low,0.01,Her2,LAR,N,-4.938271605,-39.50617284
+S34,B,PCR,N,N,Y,N,N,N,N,N,missense,,splice,,,,,,,,,,,,40-49,Low,II,IDC ,N,N,0.03,Basal,BLIA,N,-11.62790698,-66.27906977
+S35,B,PCR,N,Y,Y,Y,N,N,N,N,frameshift,,,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.7,Basal,BLIA,N,-54.06698565,-75.11961722
+S36,B,PCR,N,Y,Y,Y,Y,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,III,IDC ,N,N,0.7,Basal,BLIA,P,-64.54545455,-74.54545455
+S37,B,nonPCR,N,N,N,N,Y,N,N,N,missense,,,,,,,,,,,,,,50-59,Low,II,IDC ,N,Low,0.15,Basal,BLIA,N,-9.090909091,-5.454545455
+S38,B,PCR,N,N,Y,N,Y,Y,Y,N,missense,stopgain,,,,,,,,,,,,,50-59,Low,II,IDC ,N,Low,0.6,,,N,-14.57286432,-73.36683417
+S40,B,nonPCR,N,N,N,N,N,Y,Y,Y,missense,frameshift,,,,,stopgain,,,,,,,,20-29,Low,III,IDC ,N,N,0.3,,,N,30.76923077,0
+S42,B,PCR,Y,Y,Y,Y,Y,N,N,N,missense,,,,,,,,,,,,,,50-59,Low,III,IDC ,N,N,0.45,Basal,BLIA,P,-44.18604651,-81.39534884
+S43,B,PCR,N,N,Y,Y,Y,N,N,N,,,,,,,,,,stopgain,,,,,40-49,Low,III,IDC ,N,N,0.7,Normal,MES,N,-22.98850575,-67.81609195
+S44,B,PCR,N,N,Y,Y,N,Y,Y,N,missense,stopgain,,,,,,,,,,,,,20-29,Low,III,IDC ,Low,N,0.3,,,P,10.58201058,-43.38624339
+S46,B,PCR,N,Y,Y,N,Y,N,N,N,,,,,,,,,,,,,,,50-59,Low,III,IDC ,N,N,0.15,Basal,BLIA,P,-39.39393939,-84.84848485
+S47,B,nonPCR,N,N,N,N,N,N,N,N,splice,,,,,,,,,,,stopgain,,,30-39,Low,II,IDC ,N,Low,0.4,Basal,BLIS,N,0.751879699,12.78195489
+S49,B,nonPCR,N,N,N,N,Y,N,N,N,missense,,,,,,,,,,,,,,30-39,Low,III,IDC ,N,N,0.45,Basal,BLIA,P,5.263157895,-26.31578947
+S50,B,PCR,N,Y,Y,Y,Y,N,N,N,stopgain,,,,,,,,,,,,,,20-29,Low,II,IDC ,Low,Low,0.9,Basal,BLIA,P,-56.81233933,-86.37532134
+S51,B,nonPCR,N,N,N,N,N,N,N,N,missense,,,,,,,,,,,,,,30-39,Low,II,IDC ,N,N,0.7,Basal,BLIA,N,26.19047619,25.5952381
+S53,B,PCR,N,N,Y,N,Y,N,N,N,frameshift,,,,,missense,,,,,,,,,50-59,Low,II,IDC ,N,Low,0.2,Basal,LAR,N,-15.16853933,-45.50561798
+S54,B,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,30-39,Low,II,IDC ,Low,N,0.7,Normal,BLIA,N,11.53846154,-26.92307692
+S55,B,nonPCR,N,Y,Y,Y,Y,Y,Y,N,,stopgain,,,,,,,,,,,,,30-39,Low,III,IDC ,Low,Low,0.6,Basal,BLIA,N,-38.27160494,-55.55555556
+S56,B,PCR,N,Y,Y,Y,Y,Y,Y,N,missense,splice,,,,,,,,,,,,,30-39,Low,III,IDC ,N,Low,0.7,Basal,BLIA,P,-56.19834711,-81.40495868
+S57,B,PCR,Y,N,Y,N,N,N,N,N,stopgain,,,,,,,,,,,,,,40-49,Low,II,IDC ,Low,Low,0.4,Basal,BLIA,N,-1.694915254,-47.45762712
+S58,B,PCR,N,N,N,N,N,N,N,N,,,,,,missense,,,,,frameshift,,frameshift,,50-59,High,II,IDC ,N,Low,0.8,Basal,BLIA,N,18.30065359,24.18300654
+S60,B,PCR,N,N,N,Y,N,Y,Y,N,frameshift,missense,,,,,,,,,,,,,20-29,Low,III,IDC ,N,Low,0.6,,,N,7.894736842,-28.94736842
+S61,B,nonPCR,N,Y,Y,N,Y,N,N,N,missense,,,,,,,,,,,,,,40-49,Low,III,IDC ,N,N,0.2,Basal,BLIS,N,-79.48717949,-87.69230769
+S01,OT1,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S02,OT1,PCR,N,Y,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S03,OT1,nonPCR,N,N,N,N,N,N,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S04,OT1,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S05,OT1,PCR,N,N,Y,N,N,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S06,OT1,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S07,OT1,nonPCR,N,Y,N,N,N,Y,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S08,OT1,PCR,N,N,N,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S09,OT1,PCR,Y,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S10,OT1,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S11,OT1,PCR,N,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S12,OT1,PCR,N,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S13,OT1,nonPCR,N,Y,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S14,OT1,PCR,Y,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S15,OT1,PCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S16,OT1,PCR,N,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S17,OT1,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S18,OT1,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S19,OT1,PCR,N,N,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S20,OT1,PCR,N,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S21,OT1,nonPCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S22,OT1,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S23,OT1,nonPCR,Y,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S24,OT1,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S25,OT1,PCR,Y,N,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S26,OT1,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S27,OT1,PCR,N,N,Y,Y,Y,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S28,OT1,PCR,N,N,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S30,OT1,nonPCR,N,Y,Y,Y,Y,N,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S31,OT1,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S32,OT1,PCR,N,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S33,OT1,PCR,N,N,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S34,OT1,PCR,N,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S35,OT1,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S36,OT1,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S37,OT1,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S38,OT1,PCR,N,N,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S40,OT1,nonPCR,N,N,N,N,N,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S42,OT1,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S43,OT1,PCR,N,N,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S44,OT1,PCR,Y,N,Y,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S46,OT1,PCR,N,Y,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S47,OT1,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S49,OT1,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S50,OT1,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S51,OT1,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S53,OT1,PCR,N,N,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S54,OT1,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S55,OT1,nonPCR,N,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S56,OT1,PCR,Y,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S57,OT1,PCR,Y,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S58,OT1,PCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S60,OT1,PCR,N,N,N,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S61,OT1,nonPCR,N,Y,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S01,OT2,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S02,OT2,PCR,N,Y,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S03,OT2,nonPCR,N,N,N,N,N,N,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S04,OT2,nonPCR,Y,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S05,OT2,PCR,N,N,Y,N,N,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S06,OT2,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S07,OT2,nonPCR,Y,Y,N,N,N,Y,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S08,OT2,PCR,N,N,N,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S09,OT2,PCR,N,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S10,OT2,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S11,OT2,PCR,Y,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S12,OT2,PCR,Y,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S13,OT2,nonPCR,N,Y,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S14,OT2,PCR,Y,Y,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S15,OT2,PCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S16,OT2,PCR,Y,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S17,OT2,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S18,OT2,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S19,OT2,PCR,N,N,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S20,OT2,PCR,Y,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S21,OT2,nonPCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S22,OT2,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S23,OT2,nonPCR,N,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S24,OT2,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S25,OT2,PCR,Y,N,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S26,OT2,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S27,OT2,PCR,N,N,Y,Y,Y,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S28,OT2,PCR,N,N,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S30,OT2,nonPCR,N,Y,Y,Y,Y,N,N,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S31,OT2,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S32,OT2,PCR,Y,N,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S33,OT2,PCR,N,N,Y,N,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S34,OT2,PCR,N,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S35,OT2,PCR,N,Y,Y,Y,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S36,OT2,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S37,OT2,nonPCR,Y,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S38,OT2,PCR,N,N,Y,N,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S40,OT2,nonPCR,N,N,N,N,N,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,,
+S42,OT2,PCR,Y,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S43,OT2,PCR,N,N,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S44,OT2,PCR,Y,N,Y,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S46,OT2,PCR,N,Y,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S47,OT2,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S49,OT2,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S50,OT2,PCR,N,Y,Y,Y,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S51,OT2,nonPCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S53,OT2,PCR,N,N,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S54,OT2,nonPCR,N,N,N,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S55,OT2,nonPCR,N,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S56,OT2,PCR,Y,Y,Y,Y,Y,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S57,OT2,PCR,Y,N,Y,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S58,OT2,PCR,N,N,N,N,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S60,OT2,PCR,Y,N,N,Y,N,Y,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,
+S61,OT2,nonPCR,N,Y,Y,N,Y,N,N,N,,,,,,,,,,,,,,,,,,,,,,,,,,
